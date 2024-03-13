@@ -9,3 +9,5 @@
 [SQL for Data Science](https://github.com/zdziebkowski/Certificates/blob/main/Coursera%20H9MJDGP3XYE3.pdf)
 
 [Excel Power Query](https://github.com/zdziebkowski/Certificates/blob/main/CertyfikatExcel%20Power%20Query.pdf)
+
+[Wprowadzenie do Big Data](https://github.com/zdziebkowski/Certificates/blob/main/WKM%20Wojciech%20Zdziebkowski.pdf)
