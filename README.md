@@ -1,5 +1,7 @@
 # Certificates
 
+[Fundamenty Apache Spark](https://github.com/zdziebkowski/Certificates/blob/main/RDF_Apache_Spark.pdf)
+
 [Harvard CS50P](https://github.com/zdziebkowski/Certificates/blob/main/CS50P.pdf)
 
 [Scala dla Inzynierów Danych](https://github.com/zdziebkowski/Certificates/blob/main/Scala%20Wojciech%20Zdziebkowski.pdf)
