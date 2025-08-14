@@ -17,3 +17,5 @@
 [Raporty Pro](https://github.com/zdziebkowski/Certificates/blob/main/Raporty%20Pro%20Wojciech%20Zdziebkowski.pdf)
 
 [Excel Power Query](https://github.com/zdziebkowski/Certificates/blob/main/CertyfikatExcel%20Power%20Query.pdf)
+
+Clear charts in 4 weeks [PL](https://github.com/zdziebkowski/Certificates/blob/main/CW4T_Zaswiadczenie_WojciechZ_PL.pdf) [EN](https://github.com/zdziebkowski/Certificates/blob/main/CW4T_Zaswiadczenie_WojciechZ_EN.pdf)
