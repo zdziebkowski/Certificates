@@ -19,3 +19,5 @@
 [Excel Power Query](https://github.com/zdziebkowski/Certificates/blob/main/CertyfikatExcel%20Power%20Query.pdf)
 
 Clear charts in 4 weeks [PL](https://github.com/zdziebkowski/Certificates/blob/main/CW4T_Zaswiadczenie_WojciechZ_PL.pdf) [EN](https://github.com/zdziebkowski/Certificates/blob/main/CW4T_Zaswiadczenie_WojciechZ_EN.pdf)
+
+[SQL for Data Analysis by Crappy Data](https://github.com/zdziebkowski/Certificates/blob/main/Wojciech_Zdziebkowski_SQLforDataAnalysis.pdf)
